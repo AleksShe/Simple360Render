@@ -1,7 +1,7 @@
 = 360° Screenshot Capture =
 
 Online documentation & example code available at: https://github.com/yasirkula/Unity360ScreenshotCapture
-E-mail: yasirkula@gmail.com
+
 
 ### ABOUT
 This plugin helps you capture 360° screenshots in equirectangular format during gameplay.
